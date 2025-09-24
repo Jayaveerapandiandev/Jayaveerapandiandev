@@ -33,10 +33,6 @@ Motivated and detail-oriented Software Engineer with hands-on experience in back
 
 ---
 
-## 📊 GitHub Stats
-
-![Jayaveerapandian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayaveerapandiandev&show_icons=true&theme=radical)
-
 ## 🚀 Projects
 
 ### Quiz Application (Full Stack)

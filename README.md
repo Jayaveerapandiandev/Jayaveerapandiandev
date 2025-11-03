@@ -37,6 +37,14 @@ Motivated and detail-oriented Software Engineer with hands-on experience in back
 
 ## 🚀 Projects
 
+### Personal Portfolio Website (Full Stack)
+**Technologies:** React.js, ASP.NET Core Web API, PostgreSQL, ADO.NET, RESTful APIs, Railway (Deployment)  
+- Developed a full-stack personal portfolio with dynamic project showcase and interactive contact management system.  
+- Built secure RESTful APIs using ASP.NET Core for contact form submissions, message management, and admin authentication.  
+- Implemented PostgreSQL database with ADO.NET and Npgsql for efficient data handling and persistent storage.  
+- Designed responsive React frontend with modern UI/UX, featuring real-time form validation and email notifications.  
+- Deployed backend API on Railway platform with environment-based configuration management.
+
 ### Quiz Application (Full Stack)
 **Technologies:** React.js, Material UI, JavaScript, ASP.NET Core Web API, SQL Server 2022  
 - Built a full-stack quiz platform with dynamic question rendering and user-friendly Material UI components.  

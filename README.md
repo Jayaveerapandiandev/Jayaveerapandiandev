@@ -4,7 +4,7 @@
 ---
 
 ## 📝 About Me
-Motivated and detail-oriented Software Engineer with hands-on experience in backend development using .NET technologies and Oracle SQL. Skilled in secure coding practices, API development, and database design. I love building efficient, scalable, and secure applications.
+Motivated and detail-oriented Software Engineer with hands-on experience in backend development using .NET technologies and database design. Skilled in secure coding practices, API development, and building efficient, scalable applications. Passionate about creating robust full-stack solutions.
 
 ---
 
@@ -17,16 +17,6 @@ Motivated and detail-oriented Software Engineer with hands-on experience in back
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Jayaveera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayaveerapandiandev&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayaveerapandiandev&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayaveerapandiandev&theme=radical&hide_border=true)
 
 ### Frameworks & Tools
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
@@ -45,48 +35,67 @@ Motivated and detail-oriented Software Engineer with hands-on experience in back
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Stats
 
-### Personal Portfolio Website (Full Stack)
-**Technologies:** React.js, ASP.NET Core Web API, PostgreSQL, ADO.NET, RESTful APIs, Railway (Deployment)  
-- Developed a full-stack personal portfolio with dynamic project showcase and interactive contact management system.  
-- Built secure RESTful APIs using ASP.NET Core for contact form submissions, message management, and admin authentication.  
-- Implemented PostgreSQL database with ADO.NET and Npgsql for efficient data handling and persistent storage.  
-- Designed responsive React frontend with modern UI/UX, featuring real-time form validation and email notifications.  
-- Deployed backend API on Railway platform with environment-based configuration management.
+<div align="center">
+  
+![Jayaveera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayaveerapandiandev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-### Quiz Application (Full Stack)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jayaveerapandiandev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayaveerapandiandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website (Full Stack)
+**Technologies:** React.js, ASP.NET Core Web API, PostgreSQL, ADO.NET, RESTful APIs, Railway  
+- Developed full-stack personal portfolio with dynamic project showcase and interactive contact management
+- Built secure RESTful APIs using ASP.NET Core for contact submissions, message management, and admin authentication
+- Implemented PostgreSQL database with ADO.NET and Npgsql for efficient data handling
+- Designed responsive React frontend with modern UI/UX and real-time form validation
+- Deployed backend API on Railway platform with environment-based configuration
+
+### 📝 Quiz Application (Full Stack)
 **Technologies:** React.js, Material UI, JavaScript, ASP.NET Core Web API, SQL Server 2022  
-- Built a full-stack quiz platform with dynamic question rendering and user-friendly Material UI components.  
-- Implemented secure REST APIs for authentication, quiz management, and result processing.  
-- Designed database schema to handle participants, questions, and results efficiently.  
+- Built full-stack quiz platform with dynamic question rendering and Material UI components
+- Implemented secure REST APIs for authentication, quiz management, and result processing
+- Designed database schema for efficient handling of participants, questions, and results
 
-### ATM Simulator System
+### 🏦 ATM Simulator System
 **Technologies:** Java (Swing/AWT), JDBC, MySQL  
-- Developed ATM Simulator System with secure PIN authentication, deposits, withdrawals, and balance inquiries.  
-- Integrated MySQL database connectivity through JDBC for persistent account management and transaction history.
+- Developed ATM Simulator with secure PIN authentication, deposits, withdrawals, and balance inquiries
+- Integrated MySQL database connectivity through JDBC for persistent account management
+- Implemented transaction history tracking and account management features
 
 ---
 
-## 📫 Contact Me
-- Email: [jayaveerapandian18@gmail.com](mailto:jayaveerapandian18@gmail.com)  
-- GitHub: [Jayaveerapandiandev](https://github.com/Jayaveerapandiandev)  
+## 🎯 Current Focus
+- 🔭 Building scalable web applications with .NET and React
+- 🌱 Exploring cloud technologies and microservices architecture
+- 💡 Contributing to open-source projects
+- 📚 Continuously learning and improving coding practices
 
 ---
 
+## 📫 Let's Connect
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayaveerapandian18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayaveerapandiandev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayaveerapandian)
+
+---
+
+<div align="center">
+  
 *"Code is like humor. When you have to explain it, it's bad."* 😄
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jayaveerapandiandev&color=blueviolet&style=flat-square)
+
+</div>
 
 <!--
 **Jayaveerapandiandev/Jayaveerapandiandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

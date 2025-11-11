@@ -52,8 +52,6 @@ Motivated and detail-oriented Software Engineer experienced in building secure, 
 
 ## 📊 GitHub Stats
 
-> ✅ Works perfectly once you add a Token as explained
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayaveerapandiandev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&token=YOUR_TOKEN_HERE" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Jayaveerapandiandev&theme=tokyonight&hide_border=true" height="160"/>
